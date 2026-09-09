@@ -56,7 +56,7 @@ Notebook utama yang digunakan:
 - Matplotlib
 - Seaborn
 - Natural Language Processing (NLP)
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook / Google Colabortory
 
 ## 📂 Struktur Proyek
 ```text
